@@ -1,0 +1,49 @@
+#calendar__details {
+  display: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  max-width: 50%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 0;
+  border-radius: 20px;
+  background-color: #fbfbfc;
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  font-size: 25px;
+}
+h2 {
+  font-size: 20px;
+}
+.calendar__container {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  max-width: 50%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 20px;
+  background-color: #fbfbfc;
+  text-align: center;
+}
+.calendar__top {
+  background-color: #39568f;
+  color: white !important;
+  font-weight: bold !important;
+  font-size: 20px !important;
+  text-align: center !important;
+}
+.calendar__button {
+  color: white !important;
+  background-color: #1597d5 !important;
+  margin: 200px;
+}
+tr:hover {
+  background-color: #6ec9f0;
+}
+.MuiTableCell-root {
+  text-align: center !important;
+  font-weight: bold !important;
+}

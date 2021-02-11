@@ -1,0 +1,42 @@
+[
+  {
+    "fecha": [{
+      "horario": "08:00",
+      "clase": "Pileta libre",
+      "cantidadAlumnos": 4,
+
+      "alumnos": [
+        {
+          "nombre": "matias",
+          "edad": 20,
+          "contacto": "1132150306"
+        },
+        {
+          "nombre": "mariano",
+          "edad": 18,
+          "contacto": "11234567"
+        }
+      ]
+    },
+
+    {
+      "horario": "09:00",
+      "clase": "Natacion con profe",
+      "cantidadAlumnos": 4,
+
+      "alumnos": [
+        {
+          "nombre": "Nicolas",
+          "edad": 20,
+          "contacto": "5432432423"
+        },
+        {
+          "nombre": "Esteban ",
+          "edad": 22,
+          "contacto": "123123445"
+        }
+      ]
+    }
+  ]
+  }
+]
